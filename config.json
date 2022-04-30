@@ -1,0 +1,8 @@
+{
+	"clientId": "INSERT_CLIENT_ID",
+	"guildId": "INSERT_GUILD_ID",
+	"token": "INSERT_TOKEN_HERE",
+	"Database": "mongodb://userlogin:userpwd@URL?authSource=admin",
+	"intents": 71679,
+	"partials": ["MESSAGE", "CHANNEL", "REACTION"]
+}
